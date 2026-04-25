@@ -13,7 +13,7 @@ The analysis includes:
 
 ---
 
-## 🎯 Objectives
+## Objectives
 The main goals of this project are to:
 - Analyse historical trends in UK greenhouse gas emissions  
 - Test whether emissions follow a stationary process  
@@ -23,12 +23,12 @@ The main goals of this project are to:
 
 ---
 
-## 📁 Dataset
+## Dataset
 The dataset contains UK greenhouse gas emissions data from 1990–2023, along with sector-level emissions breakdowns extracted from an Excel file.
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 - R programming language  
 - readxl (data import)  
 - tseries (Augmented Dickey-Fuller test)  
