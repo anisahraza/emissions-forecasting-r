@@ -25,7 +25,7 @@ The main goals of this project are to:
 
 ## Dataset
 
-UK greenhouse gas emissions data (1990–2023) sourced from the [Office for National Statistics (ONS)](https://www.ons.gov.uk/economy/environmentalaccounts/bulletins/greenhousegasintensityprovisionalestimatesuk/provisionalestimates2023).
+UK greenhouse gas emissions data (1990–2023) sourced from the [Office for National Statistics (ONS)](https://www.ons.gov.uk/economy/environmentalaccounts/bulletins/greenhousegasintensityprovisionalestimatesuk/provisionalestimates2023). Sector-level emissions breakdowns extracted from the above dataset.
 
 ---
 
